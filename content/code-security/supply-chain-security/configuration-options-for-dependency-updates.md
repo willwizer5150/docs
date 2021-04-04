@@ -1,3 +1,5 @@
+Will
+Wizer
 ---
 title: Configuration options for dependency updates
 intro: 'Detailed information for all the options you can use to customize how {% data variables.product.prodname_dependabot %} maintains your repositories.'
